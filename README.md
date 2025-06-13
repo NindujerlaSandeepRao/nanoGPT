@@ -72,7 +72,7 @@ flowchart TD
 | **Validation Loss**  | \~1.47 (after \~3 minutes on A100, 6-layer model)      |
 | **Training Loss**    | Typically similar or slightly lower than val loss                               |
 | **Tokens Processed** | \~300K total (dataset \~301,966 tokens split 90/10)                             |
-| **Training Time**    | \~3 minutes on A100 GPU (`n_layer=6, n_embd=384`)                               |
+| **Training Time**    | \~23 minutes on RTX 3050 GPU (`n_layer=6, n_embd=384`)                               |
 | **Checkpointing**    | Configurable via `eval_interval`, defaults to saving on validation improvements |
 
 ## References
