@@ -1,7 +1,8 @@
 # Building GPT-2 from Scratch: A Transparent, Minimal Transformer on TinyShakespeare
 ## Overview
-<p align="center"> <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6133c18-bfaf-4578-8c5a-e5ac7809f65b_1632x784.png" width="85%" alt="GPT-2 Architecture Overview"> </p>
 An end-to-end reimplementation of GPT-2 built from scratch using the TinyShakespeare dataset. Designed to expose every architectural and training detail of transformers, it offers a fully transparent, minimal yet production-faithful LLM pipeline.
+<p align="center"> <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6133c18-bfaf-4578-8c5a-e5ac7809f65b_1632x784.png" width="85%" alt="GPT-2 Architecture Overview"> </p>
+
 
 
 ## Objectives
