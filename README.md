@@ -14,7 +14,6 @@ An end-to-end reimplementation of GPT-2 built from scratch using the TinyShakesp
 
 ## Dataset
 Name: TinyShakespeare <br>
-Link: https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
 - ~1MB of raw text (~1 million characters)
 - Character-level data, plain .txt format
 - Simple, overfit-friendly for quick iterations and visualization
@@ -78,4 +77,5 @@ flowchart TD
 
 ## References
 - Research Paper: https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
+- Dataset: https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
 - Tokenizer: https://github.com/openai/gpt-2
