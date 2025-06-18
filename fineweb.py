@@ -7,12 +7,12 @@ $ python fineweb.py
 Will save shards to the local directory "edu_fineweb10B".
 """
 
-
+import os
 import multiprocessing as mp
 import numpy as np
 import tiktoken
-from datasets import load_dataset # pip install datasets
-from tqdm import tqdm # pip install tqdm
+from datasets import load_dataset
+from tqdm import tqdm
 
 # ------------------------------------------
 local_dir = "edu_fineweb10B"
