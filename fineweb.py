@@ -7,7 +7,7 @@ $ python fineweb.py
 Will save shards to the local directory "edu_fineweb10B".
 """
 
-
+import os
 import multiprocessing as mp
 import numpy as np
 import tiktoken
