@@ -1,5 +1,5 @@
 """
-Downloads and evaluates HellaSwag in Python
+Downloads and evaluates HellaSwag in Python.
 https://github.com/rowanz/hellaswag
 
 Example HellaSwag json item:
